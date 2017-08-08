@@ -1,0 +1,8 @@
+[AzureProvider]
+Cluster=cluster192744-3
+StorageAccount=storages192744
+StorageAccessKey=lX96y0fr2s/fmmU76KfK/r2OHUgNYJmkcwZXW0anuHhcEwbz+TAOQJXCPUxSpdJ/CS6dWalBl4sRsZcXEzYzow==
+
+[Spark]
+User=sshuser
+WorkingDir=/home/sshuser/
